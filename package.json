@@ -1,0 +1,25 @@
+{
+  "name": "auth0-express-sample",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/shgtkshruch/auth0-express-sample.git"
+  },
+  "keywords": [],
+  "author": "shgtkshruch <shgtk.shruch@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shgtkshruch/auth0-express-sample/issues"
+  },
+  "homepage": "https://github.com/shgtkshruch/auth0-express-sample#readme",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "express-openid-connect": "^2.8.0"
+  }
+}
