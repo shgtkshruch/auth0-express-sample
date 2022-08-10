@@ -8,3 +8,9 @@ URL: https://auth0.com/docs/quickstart/webapp/express/interactive
 npm i
 npm start
 ```
+
+## Pages
+
+- Top: http://localhost:3000
+- Login: http://localhost:3000/login
+- Profile: http://localhost:3000/profile
